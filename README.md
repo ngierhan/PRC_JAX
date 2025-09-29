@@ -6,8 +6,8 @@ JAX Installation: https://docs.jax.dev/en/latest/installation.html
 
 FILES:
 
--1DPRC_JAX_CPUandGPU_V1.py: Runs simulation of 1D PRC on CPU or GPU
+_1DPRC_JAX_CPUandGPU_V1.py_: Runs simulation of 1D PRC on CPU or GPU
 
--OPT_1DPRC_JAX_V1.py: Runs parallel simulation and optimization of 1D PRCs on GPU (GPU is default, can also run on CPU)
+_OPT_1DPRC_JAX_V1.py_: Runs parallel simulation and optimization of 1D PRCs on GPU (GPU is default, can also run on CPU)
 
---NOTE: Uncomment indicated code sections for the most accurate performance timing. 
+***_NOTE_: Uncomment indicated code sections for the most accurate performance timing. 
